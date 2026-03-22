@@ -3,7 +3,7 @@ def centro(texto):
     print(texto.center(100))
 
 #Entrada de dados
-aparelho = input("Digite o aparelho do aparelho: ")
+aparelho = input("Digite o nome do aparelho: ")
 os.system('cls')
 
 potencia = int(input("Digite a potência do aparelho em watts: "))
